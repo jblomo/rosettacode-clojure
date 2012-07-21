@@ -1,13 +1,16 @@
-Rosettacode task solutions in clojure
-=====================================
+# rosettacode
 
-This is a set of personal Clojure solutions to the
-[rosettacode tasks](http://rosettacode.org/wiki/Rosetta_Code), some of
-which have been included on the Rosetta Code wiki itself.
+Clojure solutions to http://rosettacode.org/
 
-The code was written with the intention of learning more Clojure
-rather than collecting a full set of canonical solutions in one
-repository.
+Most solutions forked from @purcell and may not work unmodified on Clojure 1.3
 
-Released under the terms of the
-[Eclipse Public License](http://www.eclipse.org/legal/epl-v10.html).
+## Usage
+
+lein test
+
+## License
+
+Copyright © 2012 Jim Blomo <jim.blomo@gmail.com>
+Copyright © 2009,2011-2012 Steve Purcell @purcell 
+
+Distributed under the Eclipse Public License, the same as Clojure.
